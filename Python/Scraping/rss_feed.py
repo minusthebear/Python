@@ -90,13 +90,14 @@ def convertFile(outfile):
 	 		outfile.write(",\n")
 	outfile.write("}")
 
+
+
+
 python_so_rss_url = urllib2.urlopen("http://stackoverflow.com/jobs/feed?tl=api")
 
 feeds = feedparser.parse( python_so_rss_url )
 
 file = open('data.json', 'w')
-
-i = 0
 
 with file as outfile:
 	convertFile(outfile)
