@@ -1,0 +1,13 @@
+1489625255107	geckodriver	INFO	Listening on 127.0.0.1:51064
+1489625257723	mozprofile::profile	INFO	Using profile path /var/folders/18/bq1ryt3x07g9_t40dc47thsm0000gn/T/rust_mozprofile.enaubQefT6r6
+1489625257727	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1489625257780	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51070
+1489625259354	Marionette	INFO	Listening on port 51070
+1489625261389	Marionette	INFO	startBrowser e7d0245d-ecc1-f347-8c84-04bddec309b7
+1489625261400	Marionette	INFO	sendAsync e7d0245d-ecc1-f347-8c84-04bddec309b7
+1489625261665	Marionette	INFO	sendAsync e7d0245d-ecc1-f347-8c84-04bddec309b7
+JavaScript warning: http://mlb.mlb.com/bundle?js=http://ui.bamstatic.com//bridge/core/shims/string.js&js=http://ui.bamstatic.com//bridge/core/shims/date.js&js=http://ui.bamstatic.com//bridge/core/require/require.js&js=http://ui.bamstatic.com//bridge/core/jquery/jquery.min.js&js=http://ui.bamstatic.com//clubs/mlb/startup/requireConfigs.js&v=4.2.2, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://tags.bkrtx.com/js/bk-coretag.js, line 5: flags argument of String.prototype.{search,match,replace} is deprecated
+JavaScript warning: http://www.120sports.com/site-core/scripts/external/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.120sports.com/video/embed/?width=290&height=192&mute=true&enableLive=false&showHeader=true&autoAdvance=true&autoPlay=false&bypassWhitelist=true&intervalID=0&tags=%5B%7B%22type%22%3A%22league%22%2C%22value%22%3A6386%7D%5D, line 309: ReferenceError: requirejs is not defined
+JavaScript error: , line 0: NetworkError: A network error occurred.
