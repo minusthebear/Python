@@ -18,13 +18,13 @@ class DriverDemo:
 		self.startDriver()
 
 	def startDriver(self):
-		chrome_path = "/Users/matthewhamann/chromedriver"
-		driver = webdriver.Chrome(chrome_path)
-		driver.get("http://stackoverflow.com")
-		driver.quit()
+		# chrome_path = "/Users/matthewhamann/chromedriver"
+		# driver = webdriver.Chrome(chrome_path)
+		# driver.get("http://stackoverflow.com")
 
-		# driver2 = webdriver.Firefox(capabilities=firefox_capabilities)
-		# driver2.get("http://wired.com")
+		driver2 = webdriver.Firefox(capabilities=firefox_capabilities)
+		driver2.get("https://www.wired.com")
+		
 
 		
 if __name__ == "__main__":

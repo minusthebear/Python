@@ -11,3 +11,44 @@ JavaScript warning: http://tags.bkrtx.com/js/bk-coretag.js, line 5: flags argume
 JavaScript warning: http://www.120sports.com/site-core/scripts/external/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 JavaScript error: http://www.120sports.com/video/embed/?width=290&height=192&mute=true&enableLive=false&showHeader=true&autoAdvance=true&autoPlay=false&bypassWhitelist=true&intervalID=0&tags=%5B%7B%22type%22%3A%22league%22%2C%22value%22%3A6386%7D%5D, line 309: ReferenceError: requirejs is not defined
 JavaScript error: , line 0: NetworkError: A network error occurred.
+1489633905471	geckodriver	INFO	Listening on 127.0.0.1:55526
+1489633908109	mozprofile::profile	INFO	Using profile path /var/folders/18/bq1ryt3x07g9_t40dc47thsm0000gn/T/rust_mozprofile.ulhypeAUNFXx
+1489633908112	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1489633908131	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55532
+1489633909128	Marionette	INFO	Listening on port 55532
+1489633910710	Marionette	INFO	startBrowser abac1a56-2b9a-e345-8a11-f00605937fd4
+1489633910728	Marionette	INFO	sendAsync abac1a56-2b9a-e345-8a11-f00605937fd4
+1489633910981	Marionette	INFO	sendAsync abac1a56-2b9a-e345-8a11-f00605937fd4
+1489633934190	geckodriver	INFO	Listening on 127.0.0.1:55567
+1489633935268	mozprofile::profile	INFO	Using profile path /var/folders/18/bq1ryt3x07g9_t40dc47thsm0000gn/T/rust_mozprofile.Y39C4mzRdJHp
+1489633935271	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1489633935276	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55573
+1489633935961	Marionette	INFO	Listening on port 55573
+1489633937253	Marionette	INFO	startBrowser f4afc8d8-e3ae-4942-987c-ee45ad2b3e89
+1489633937266	Marionette	INFO	sendAsync f4afc8d8-e3ae-4942-987c-ee45ad2b3e89
+1489633937427	Marionette	INFO	sendAsync f4afc8d8-e3ae-4942-987c-ee45ad2b3e89
+1489634003948	geckodriver	INFO	Listening on 127.0.0.1:55616
+1489634005099	mozprofile::profile	INFO	Using profile path /var/folders/18/bq1ryt3x07g9_t40dc47thsm0000gn/T/rust_mozprofile.S5MdC0yYTqpC
+1489634005102	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1489634005108	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55622
+1489634005812	Marionette	INFO	Listening on port 55622
+1489634007142	Marionette	INFO	startBrowser c8258396-5a47-db43-a2d6-474e44cd3699
+1489634007159	Marionette	INFO	sendAsync c8258396-5a47-db43-a2d6-474e44cd3699
+1489634007311	Marionette	INFO	sendAsync c8258396-5a47-db43-a2d6-474e44cd3699
+1489634067299	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1489634078315	geckodriver	INFO	Listening on 127.0.0.1:55774
+1489634079387	mozprofile::profile	INFO	Using profile path /var/folders/18/bq1ryt3x07g9_t40dc47thsm0000gn/T/rust_mozprofile.lqKxezqE8mRA
+1489634079390	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1489634079395	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55780
+1489634080079	Marionette	INFO	Listening on port 55780
+1489634081411	Marionette	INFO	startBrowser 47825083-ab4a-854e-9a85-f04814b27fa3
+1489634081424	Marionette	INFO	sendAsync 47825083-ab4a-854e-9a85-f04814b27fa3
+1489634081579	Marionette	INFO	sendAsync 47825083-ab4a-854e-9a85-f04814b27fa3
+1489634341284	geckodriver	INFO	Listening on 127.0.0.1:49531
+1489634342769	mozprofile::profile	INFO	Using profile path /var/folders/18/bq1ryt3x07g9_t40dc47thsm0000gn/T/rust_mozprofile.EHa8Lnmq1fIg
+1489634342774	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1489634342827	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49540
+1489634344210	Marionette	INFO	Listening on port 49540
+1489634345852	Marionette	INFO	startBrowser 7be1ffb0-374f-124a-82b7-97b4d8a8e135
+1489634345865	Marionette	INFO	sendAsync 7be1ffb0-374f-124a-82b7-97b4d8a8e135
+1489634346104	Marionette	INFO	sendAsync 7be1ffb0-374f-124a-82b7-97b4d8a8e135

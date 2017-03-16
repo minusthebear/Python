@@ -20,8 +20,14 @@ class DriverDemo:
 	def startDriver(self):
 		chrome_path = "/Users/matthewhamann/chromedriver"
 		driver = webdriver.Chrome(chrome_path)
-		driver.get("http://stackoverflow.com")
-		driver.quit()
+
+		driver.get("http://google.com")
+
+		fLocator = "input[name=q]"
+		try:
+			searchField = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, fLocator)))
+		finally:
+			driver.quit()
 
 		# driver2 = webdriver.Firefox(capabilities=firefox_capabilities)
 		# driver2.get("http://wired.com")
